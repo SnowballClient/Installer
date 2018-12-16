@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/Documents/Games/Minecraft/SnowballClient/Eclipse/Installer/libs/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric/Documents/Games/Minecraft/SnowballClient/Eclipse/Installer/libs/jaco-mp3-player-0.9.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
